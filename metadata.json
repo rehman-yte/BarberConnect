@@ -1,0 +1,7 @@
+{
+  "name": "BarberConnect - Premium Barber Marketplace",
+  "description": "A high-end marketplace for discovering top-tier barbers, booking appointments, and getting AI-powered style recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
